@@ -1,4 +1,4 @@
-## Hi 👋
+# Hi, i´m José Perdomo 👋
 
 My name is *José Luis Perdomo*, I´m currently studing a data science degree 
 and i´m trying to get a space on this knowlewdge area where I can be usuful to improve the world just a little bit.
