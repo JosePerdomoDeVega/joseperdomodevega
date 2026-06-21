@@ -75,10 +75,4 @@ business services, **multi-tenancy** with per-client data isolation, **per-call 
 <p align="left">
   <a href="mailto:perdomo.devega@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jose-luis-perdomo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  -->
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosePerdomoDeVega&show_icons=true&hide_border=true&count_private=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosePerdomoDeVega&layout=compact&hide_border=true&langs_count=8" height="160">
 </p>
